@@ -1,14 +1,5 @@
-- 👋 I'm Onaopemipo from Nigeria, and I'm a full stack developer currently learning and building projects with the MERN stack.
-
-Published Articles
-
-1. [Multi Tenancy Architecture With Shared Schema Using Django](https://medium.com/@opeoluborode_9605/multi-tenancy-architecture-with-shared-schema-using-django-17559b35820)
-
-
 <h1 align="center">Hi 👋, I'm Onaopemipo</h1>
 <h3 align="center">An aspiring full-stack developer from Nigeria</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borodedamie" alt="borodedamie" /></a> </p>
 
 - 🌱 I’m currently learning **the MERN stack**
 
