@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[Multi-tenancy Architecture with shared schema using Django](https://medium.com/@opeoluborode_9605/multi-tenancy-architecture-with-shared-schema-using-django-17559b35820)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
