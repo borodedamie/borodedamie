@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **opeoluborode@yahoo.com**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 [Multi-tenancy Architecture with shared schema using Django](https://medium.com/@opeoluborode_9605/multi-tenancy-architecture-with-shared-schema-using-django-17559b35820)
 <br/>
