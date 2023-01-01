@@ -12,6 +12,8 @@
 [Multi-tenancy Architecture with shared schema using Django](https://medium.com/@opeoluborode_9605/multi-tenancy-architecture-with-shared-schema-using-django-17559b35820)
 <br/>
 [Using React JS with Contentful Headless CMS and Graph QL](https://medium.com/@opeoluborode_9605/using-react-js-with-contentful-headless-cms-and-graph-ql-ba716bddf72)
+<br/>
+[Import data from a CSV file into Cloud Firestore with Node JS](https://medium.com/@opeoluborode_9605/import-data-from-a-csv-file-into-cloud-firestore-with-node-js-e4faae454696)
 
 <!-- BLOG-POST-LIST:END -->
 
