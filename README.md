@@ -14,6 +14,8 @@
 [Using React JS with Contentful Headless CMS and Graph QL](https://medium.com/@opeoluborode_9605/using-react-js-with-contentful-headless-cms-and-graph-ql-ba716bddf72)
 <br/>
 [Import data from a CSV file into Cloud Firestore with Node JS](https://medium.com/@opeoluborode_9605/import-data-from-a-csv-file-into-cloud-firestore-with-node-js-e4faae454696)
+<br/>
+[How to implement TinyMCE in a Flask App with SQLite DB using SQLAlchemy](https://medium.com/@opeoluborode_9605/how-to-implement-tinymce-in-a-flask-app-with-sqlite-db-using-sqlalchemy-258cb1e96f65)
 
 <!-- BLOG-POST-LIST:END -->
 
