@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **the MERN stack**
 
-- 💬 Ask me about **react, python, and javascript**
+- 💬 Ask me about **react js, python, and node js**
 
 - 📫 How to reach me **opeoluborode@yahoo.com**
 
