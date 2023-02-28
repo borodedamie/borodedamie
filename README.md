@@ -16,6 +16,8 @@
 [Import data from a CSV file into Cloud Firestore with Node JS](https://medium.com/@opeoluborode_9605/import-data-from-a-csv-file-into-cloud-firestore-with-node-js-e4faae454696)
 <br/>
 [How to implement TinyMCE in a Flask App with SQLite DB using SQLAlchemy](https://medium.com/@opeoluborode_9605/how-to-implement-tinymce-in-a-flask-app-with-sqlite-db-using-sqlalchemy-258cb1e96f65)
+<br/>
+[Creating asynchronous tasks in Django Project using Celery and Rabbit MQ server on windows 10](https://medium.com/towardsdev/creating-asynchronous-tasks-in-django-project-using-celery-and-rabbit-mq-server-on-windows-10-35acb42ad27)
 
 <!-- BLOG-POST-LIST:END -->
 
