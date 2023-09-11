@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Onaopemipo</h1>
-<h3 align="center">A full-stack developer from Nigeria</h3>
+<h1 align="start">Hi 👋, I'm Onaopemipo</h1>
+<h3 align="start">A full-stack developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **the MERN stack**
 
