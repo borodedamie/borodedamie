@@ -1,10 +1,8 @@
-<h4>Hi 👋, I'm Onaopemipo</h4>
+<h3>Hi 👋, I'm Onaopemipo</h3>
 <h6>A full-stack developer from Nigeria</h6>
 
 - 🌱 I’m currently learning **the MERN stack**
-
 - 💬 Ask me about **react js, python, and node js**
-
 - 📫 How to reach me **opeoluborode@yahoo.com**
 
 ### Blog posts
