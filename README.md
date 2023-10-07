@@ -1,7 +1,7 @@
 <h3>Hi 👋, I'm Onaopemipo</h3>
 <h6>A full-stack developer from Nigeria</h6>
 
-- 🌱 Developing <a href="https://rxpoint.netlify.app/">rxPoint</a> 
+- 🌱 Developing <a href="https://rxpoint.org/">rxPoint</a> 
 - 💬 Ask me about **react js, python, and node js**
 - 📫 How to reach me **opeoluborode@yahoo.com**
 
